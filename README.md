@@ -1,6 +1,8 @@
 # Проект: ИИ-ассистент для компании Колесо.ру
 
-ссылка на проект 
+ссылка на проект -
+
+https://github.com/BasalaevAndrei/AI_assistent/blob/main/Bot_Koleso.png
 
 ## Описание проекта
 
