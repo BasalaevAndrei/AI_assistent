@@ -2,7 +2,7 @@
 
 ссылка на проект -
 
-
+<img width="503" alt="Bot_Koleso" src="https://github.com/user-attachments/assets/691ae3f8-c71b-4fac-9957-adbdca0998f2" />
 
 
 https://github.com/BasalaevAndrei/AI_assistent/blob/main/Bot_Koleso.png
